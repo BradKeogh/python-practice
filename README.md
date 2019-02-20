@@ -26,12 +26,15 @@ Current projets are really too big and too new. Need to do some deliberate train
 
 ## General
 - read RealPython emails
+- read about Binder (mybinder.org)
+- [Good enough practices in scientific computing](https://arxiv.org/abs/1609.00037)
+- [CookieCutter - python package](https://cookiecutter.readthedocs.io/en/latest/)
 
 ## Pythonic coding
 - DOCSTRING conventions (use style seen at civis)
 - Read [structuring projects](https://docs.python-guide.org/writing/structure/)
 
-## Python coding
+## Python
 - Generators
 - 
 
@@ -45,6 +48,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 ## Package construction
 - __init__.py and importing from various locations
 - referencing within packages: explicit,  
+- read about setup tools to make packages installable: python setup.py install
 
 ## ML
 
@@ -68,3 +72,5 @@ Current projets are really too big and too new. Need to do some deliberate train
 - https://www.datascience.com/resources#.learn-data-science
 
 
+
+- http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
