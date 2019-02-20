@@ -3,7 +3,6 @@ Current objectives and practice plan for developing my python and data science s
 
 # Motivation
 Current projets are really too big and too new. Need to do some deliberate training/smaller projects so that can keep productive.
-- keep picking mini-projects
 
 ## Aims
 - Write more pythonic code
@@ -14,9 +13,14 @@ Current projets are really too big and too new. Need to do some deliberate train
 - Complete tutorials below and push relevant code to git
 - Complete mini-project ideas
 
+## Practice
+- keep picking mini-projects just ahead of my skill level
+- push small examples of code from tutorials whenever possible
+
+
 #### Inspiration
-* http://norvig.com/21-days.html
-* https://github.com/robert8138/python-deliberate-practice/blob/master/README.md
+* [Teach yourself to code in 10 years](http://norvig.com/21-days.html)
+* [similar repo](https://github.com/robert8138/python-deliberate-practice/blob/master/README.md)
 
 # Topics
 
@@ -25,6 +29,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 
 ## Pythonic coding
 - DOCSTRING conventions (use style seen at civis)
+- Read [structuring projects](https://docs.python-guide.org/writing/structure/)
 
 ## Python coding
 - Generators
@@ -59,7 +64,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 
 # Resources
 - [How to contribute your code](https://www.youtube.com/watch?v=uRul8QdYvqQ)
-- [BIDS] python course (https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online)
-- 
+- [BIDS python course](https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online)
+- https://www.datascience.com/resources#.learn-data-science
 
 
