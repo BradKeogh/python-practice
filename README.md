@@ -37,9 +37,10 @@ Current projets are really too big and too new. Need to do some deliberate train
 
 ## Python
 - (00)List comprehensions
-- ()Generators
+- (01)Generators
 - Watch looping like a native video
 - Matplotlib
+
 
 ## Numpy
 - General
@@ -71,10 +72,10 @@ Current projets are really too big and too new. Need to do some deliberate train
 
 
 # Resources
-- [How to contribute your code](https://www.youtube.com/watch?v=uRul8QdYvqQ)
+- (Y)[How to contribute your code - Hopper, PyData talk](https://www.youtube.com/watch?v=uRul8QdYvqQ)
 - [BIDS python course](https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online)
 - https://www.datascience.com/resources#.learn-data-science
 
-
+- [SoloLearn - python and SQL courses](https://www.sololearn.com/Play/Python)
 
 - http://tom.preston-werner.com/2010/08/23/readme-driven-development.html
