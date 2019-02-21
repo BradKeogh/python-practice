@@ -29,14 +29,17 @@ Current projets are really too big and too new. Need to do some deliberate train
 - read about Binder (mybinder.org)
 - [Good enough practices in scientific computing](https://arxiv.org/abs/1609.00037)
 - [CookieCutter - python package](https://cookiecutter.readthedocs.io/en/latest/)
+- timeit examples
 
 ## Pythonic coding
 - DOCSTRING conventions (use style seen at civis)
 - Read [structuring projects](https://docs.python-guide.org/writing/structure/)
 
 ## Python
-- Generators
-- 
+- (00)List comprehensions
+- ()Generators
+- Watch looping like a native video
+- Matplotlib
 
 ## Numpy
 - General
@@ -63,6 +66,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 * Herby the scout
 * Battleships
 * Checkers
+* Travelling Santa
 
 
 
