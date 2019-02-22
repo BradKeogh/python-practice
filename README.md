@@ -6,7 +6,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 
 ## Aims
 - Write more pythonic code
-- Write more code in VSCode rather than just notebooks
+- Write more code in VSCode rather than just jupyter notebooks
 - Develop competences to ship flosp project
 
 ## Objectives
@@ -50,8 +50,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 
 
 ## Package construction
-- __init__.py and importing from various locations
-- referencing within packages: explicit,  
+- (02) \_\_init__.py and importing from various locations, referencing within packages: explicit, relative,  
 - read about setup tools to make packages installable: python setup.py install
 
 ## ML

@@ -1,0 +1,6 @@
+from packagename_initcommands.submodule.submodule1 import my_favourite_function_from_submodule
+
+
+from packagename_initcommands.submodule.submodule1 import my_favourite_function_from_submodule as package_core_function
+
+PACKAGE_VARIABLE = 3.1485
