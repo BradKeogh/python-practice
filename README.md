@@ -39,7 +39,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 - (00)List comprehensions
 - (01)Generators
 - Watch looping like a native video
-- Matplotlib
+- (03)Matplotlib
 
 
 ## Numpy
@@ -52,6 +52,7 @@ Current projets are really too big and too new. Need to do some deliberate train
 ## Package construction
 - (02) \_\_init__.py and importing from various locations, referencing within packages: explicit, relative,  
 - read about setup tools to make packages installable: python setup.py install
+- test out cookie cutter package
 
 ## ML
 
