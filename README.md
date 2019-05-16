@@ -55,6 +55,8 @@ Current projets are really too big and too new. Need to do some deliberate train
 - test out cookie cutter package
 
 ## ML
+- (04) Cross validation examples of creating KFold splits, putting into GridSearch (sklearn)
+- (05) BinaryClassication: End to end ML clasisfication examples on Different Datasets (sklearn)
 
 ## DL
 
